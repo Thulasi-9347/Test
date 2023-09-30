@@ -1,0 +1,11 @@
+1>create a class
+2>take a user input from scanner class
+3>then take n value as int data type
+4>create a class and a static method
+5>create a variable int temp,n ;
+6>check while condition(n>0)
+7>r=n%10;
+		sum=sum+r;
+		n=n/10;
+8>then print the sum value
+9>return sum

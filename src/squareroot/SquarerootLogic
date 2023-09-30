@@ -1,0 +1,9 @@
+1>create a class 
+2>taking a user input from the scanner class
+3>creating a variable assigning double value 
+4>creating a another class and a static method
+5>printing a square value by using inbuilt method 
+6>return a variable num
+7>while using static method we need to call it by using classname.static method with parameters
+8>output format will be:enter the number 25
+output:5.0

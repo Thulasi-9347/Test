@@ -1,0 +1,19 @@
+1>create a class 
+2>taking a user input from the scanner class
+3>creating a variable assigning int value 
+4>creating a another class and a static method
+5>initial a value of sum=0;
+6>using a while(num>0||sum>9)
+7>and then condition
+8> if (num == 0) {
+             num = sum;
+             sum = 0;
+         }
+         sum += num % 10;
+         num /= 10;			
+		}
+10>print the value of sum
+10>return a parameter num
+11>while using static method we need to call it by using classname.static method with parameters
+12>output format will be:enter the number 1236
+output:3

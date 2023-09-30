@@ -1,0 +1,16 @@
+1>create a class 
+2>taking a user input from the scanner class
+3>creating a variable assigning to a int value 
+4>creating a another class and a static method
+5>creating int numbers and assigning value to them
+6>using a for loop control construct initial a value to a variable
+7>and then condition check the value i is lesser than or equal to a and i is lesser then or equal to b
+8>increment the  i value
+9>then write a if condition to check a divide with i equal to zero and b divide with i equal to zero
+10>a%i==0 && b%i==0
+11>print the value of i
+12>12>return a parameter a or b
+13>while using static method we need to call it by using classname.static method with parameters
+14>output format will be:enter the number 10
+15>enter the another number :20
+16>output=10

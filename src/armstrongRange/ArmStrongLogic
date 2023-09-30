@@ -1,0 +1,12 @@
+1>create a class
+2>take an user input from scanner class
+3>create a another class and static method
+4>take a for loop condition 
+5>if temp=n;
+6>check the condition while n>0;
+7>create a	r=n%10;
+			n=n/10;
+			sum=sum+r*r*r;
+8>after checking the above condition if(temp=sum)
+9>then print sum
+10>output:153

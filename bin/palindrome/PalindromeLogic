@@ -1,0 +1,18 @@
+1>create a class 
+2>taking a user input from the scanner class
+3>creating a variable assigning int value 
+4>creating a another class and a static method
+5>initial a value of r,sum=0,x;
+6>using a while loop control construct n>0;
+7>           r=n%10;
+			sum=sum*10+r;
+			n=n/10;
+8>and then check the above condition 
+9>then check the  if condition x==sum
+10>if the above condition is true then print it is a palindrome number
+11>then else the above condition is false then print it is not a palindrome number
+
+12>return a parameter n
+13>while using static method we need to call it by using classname.static method with parameters
+14>output format will be:enter the number 141
+15>it is a palindrome number

@@ -1,0 +1,15 @@
+1>create a class 
+2>taking a user input from the scanner class
+3>creating a variable assigning int value 
+4>creating a another class and a static method
+5>creating a fact variable assigning 1 to the value
+5>using a for loop control construct initial a value to a variable
+6>and then condition check the value is lesser than or equal to a
+7>increment the  i value
+8>then check the condition fact=fact*i;
+9>after closing the for loop condition then print
+9>print the value of fact
+6>return a parameter n
+7>while using static method we need to call it by using classname.static method with parameters
+8>output format will be:enter the number 5
+output=5*4*3*2*1=120

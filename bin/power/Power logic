@@ -1,0 +1,15 @@
+1>create a class 
+2>taking a user input from the scanner class
+3>creating a variable assigning int value 
+4>creating a another class and a static method
+5>initial a value of power=1;
+6>using a for loop control construct initial a value to a variable
+6>and then condition check the value is lesser than or equal to n
+7>increment the i value
+8>then power=power*base;
+9>print the value of power
+6>return a parameter n
+7>while using static method we need to call it by using classname.static method with parameters
+8>output format will be:enter the number 2
+enter the base:5
+output:32

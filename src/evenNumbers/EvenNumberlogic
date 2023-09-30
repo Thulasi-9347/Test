@@ -1,0 +1,17 @@
+1>create a class 
+2>taking a user input from the scanner class
+3>creating a variable assigning int value 
+4>creating a another class and a static method
+5>using a for loop control construct initial a value to a variable
+6>and then condition check the value is lesser than or equal to n
+7>increment the the i value
+8>using if condition divide the i value by 2 equal to zero
+9>print the value of i
+6>return a parameter n
+7>while using static method we need to call it by using classname.static method with parameters
+8>output format will be:enter the number 10
+output:2
+       4
+       6
+       8
+       10

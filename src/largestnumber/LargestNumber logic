@@ -1,0 +1,16 @@
+1>create a class 
+2>taking a user input from the scanner class
+3>creating a variable assigning int value 
+4>creating a another class and a static method
+5>creating an int value assign to a variable large=0;
+5>using a while  loop control construct 
+6>and then condition check the value greater than 0
+7>and write a if condition n=r%10;//it gives the remainder
+8>if large<r;
+9>then assign A value large=r
+10>and again n=n/10;
+11>after closing the while loop then print the value of large 
+11>return a parameter n
+7>while using static method we need to call it by using classname.static method with parameters
+8>output format will be:enter the number 123
+output=3

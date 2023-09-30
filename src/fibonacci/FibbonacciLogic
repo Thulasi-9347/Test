@@ -1,0 +1,18 @@
+1>create a class 
+2>taking a user input from the scanner class
+3>creating a variable assigning to a int value 
+4>creating a another class and a static method
+5>creating int numbers and assigning value to them
+6>fib1=0,fib2=1,fib3;
+7>if we need to print the value of fib1 and fib2
+5>using a for loop control construct initial a value to a variable
+6>and then condition check the value is lesser than or equal to a
+7>increment the  i value
+8>then write a condition to a value of fib3
+9>fib3=fib1+fib2;
+10>print the value of fib3
+11>then swap the numbers of fib1=fib2,fib2=fib3;
+12>return a parameter n
+13>while using static method we need to call it by using classname.static method with parameters
+14>output format will be:enter the number 5
+15>0,1,1,2,3,5,8
